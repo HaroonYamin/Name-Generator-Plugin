@@ -90,3 +90,4 @@ For issues or help, contact the author.
 
 -   **Haroon Yamin**
 -   Email: haroon.webdev@gmail.com
+-   Linkedin: https://www.linkedin.com/in/haroon-webdev/
